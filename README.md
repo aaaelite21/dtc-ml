@@ -10,6 +10,9 @@ I was looking to create a simple ans easy to use utility for AI to aid in automa
 
 Node JS palne and simple
 
+#Install
+```npm i dtc-ml```
+
 # Features
 
 At this point it is still in its infancy. As such it is simply an easy to use genetic optomization tool. More NL and deep learning is to come.
