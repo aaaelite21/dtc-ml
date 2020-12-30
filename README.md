@@ -10,7 +10,7 @@ I was looking to create a simple ans easy to use utility for AI to aid in automa
 
 Node JS palne and simple
 
-#Install
+# Install
 ```npm i dtc-ml```
 
 # Features
